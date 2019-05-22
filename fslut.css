@@ -1,0 +1,53 @@
+html, body {
+    background-image: url(virtual%20eleven%20bakgrund.png);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+     margin: 0%;
+    height: 100%;
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
+    
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    
+  background-color: lightgreen;
+}
+
+.active {
+  color: blue;
+    background-color: lightgreen
+
+    
+}
+
+#logo {
+    float:left;
+    margin:0%;
+    
+    
+}
+a:hover {
+    background-color: lightgray;
+}

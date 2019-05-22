@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
+    background-image: url(cl2.png);
+    background-position: center;
+    background-attachment: fixed;
+    
+    color: snow;
+    text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: gray;
+}
+
+.active {
+  color: aqua;
+
+    
+}
+
+#logo {
+ 
+
+margin:0%;
+
+    
+    
+}
+a:hover {
+    background-color: lightgray;
+}

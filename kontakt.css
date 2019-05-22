@@ -1,0 +1,13 @@
+html , body {
+	margin: 0;
+	background-color:gray;
+	
+}
+
+#form {
+	text-align: center;
+	
+	border: 2px solid red;
+  border-radius: 5px;
+	
+}
